@@ -8,7 +8,7 @@
                 <div class="row gy-90">
                     <div class="col-lg-6 gallery-wrapper">
                         <div data-show="startbox">
-                            <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="assets/img/portfolio/project-single-gallery-1-900x750.jpg" style="--img-height: 82%;" data-img-height><img loading="lazy" src="assets/img/portfolio/project-single-gallery-1-900x750.jpg" alt=""></a>
+                            <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="assets/img/serviços/planejamento-estratégico-de-marketing.jpg" style="--img-height: 82%;" data-img-height><img loading="lazy" src="assets/img/serviços/planejamento-estratégico-de-marketing.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="col-lg-5 offset-lg-1">

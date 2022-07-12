@@ -50,7 +50,7 @@
                                 <li class="nav-item"><a class="nav-link" href="/serviço-website">Web Site</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-identidade-visual">Branding / Identidade Visual</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-gerenciamento-mídias">Gestão de Mídias e Conteúdo</a></li>
-                                <li class="nav-item"><a class="nav-link" href="service-planejamento-business.html">Planejamento Estratégico de Marketing</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/planejamento-estratégico-Marketing">Planejamento Estratégico de Marketing</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-anúncio-trafego-pago">Gerenciamento de anúncio / Trafego Pago</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-material-offline">Materiais Off-line / Papelaria</a></li> </ul>
                          </div>
@@ -122,7 +122,7 @@
                             <li class="nav-item"><a class="nav-link" href="/serviço-website">Web Site</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-identidade-visual">Branding / Identidade Visual</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-gerenciamento-mídias">Gestão de Mídias e Conteúdo</a></li>
-                                <li class="nav-item"><a class="nav-link" href="service-planejamento-business.html">Planejamento Estratégico de Marketing</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/planejamento-estratégico-Marketing">Planejamento Estratégico de Marketing</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-anúncio-trafego-pago">Gerenciamento de anúncio / Trafego Pago</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-material-offline">Materiais Off-line / Papelaria</a></li> </ul>
                         </ul>

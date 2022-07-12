@@ -91,8 +91,6 @@
                 <div class="background-color" style="--background-color: #532482;"></div>
             </div><!-- Shape-->
             <div class="shape justify-content-center mt-80"><img loading="lazy" src="assets/img/root/home-2-shape-962x296.png" alt="" width="962" height="296"></div><!-- Shape-->
-            <div class="shape justify-content-start align-items-end"><img loading="lazy" src="assets/img/root/home-2-shape-562x587.png" alt="" width="562" height="587"></div><!-- Shape-->
-            <div class="shape justify-content-end align-items-center"><img loading="lazy" src="assets/img/root/home-2-shape-247x430.png" alt="" width="247" height="430"></div>
             <div class="container text-center">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
@@ -125,17 +123,17 @@
                             </div>
                             <div class="swiper-slide pt-15">
                                 <div data-filters="branding">
-                                    <!-- Portfolio--><a class="card card-portfolio  image-link overflow-hidden lift rounded-4" href="assets/img/criativos/bolobom (1).jpeg"><span class="card-img" data-img-height style="--img-height: 92%;"><img loading="lazy" src="assets/img/criativos/bolobom (1).jpeg" alt=""></span></a>
+                                    <!-- Portfolio--><a class="card card-portfolio  image-link overflow-hidden lift rounded-4" href="assets/img/criativos/bolobom1.jpeg"><span class="card-img" data-img-height style="--img-height: 92%;"><img loading="lazy" src="assets/img/criativos/bolobom1.jpeg" alt=""></span></a>
                                 </div>
                             </div>
                             <div class="swiper-slide pt-15">
                                 <div data-filters="branding">
-                                    <!-- Portfolio--><a class="card card-portfolio  image-link overflow-hidden lift rounded-4" href="assets/img/criativos/bolobom (2).jpeg"><span class="card-img" data-img-height style="--img-height: 92%;"><img loading="lazy" src="assets/img/criativos/bolobom (2).jpeg" alt=""></span></a>
+                                    <!-- Portfolio--><a class="card card-portfolio  image-link overflow-hidden lift rounded-4" href="assets/img/criativos/petros23.png"><span class="card-img" data-img-height style="--img-height: 92%;"><img loading="lazy" src="assets/img/criativos/petros23.png" alt=""></span></a>
                                 </div>
                             </div>
                             <div class="swiper-slide pt-15">
                                 <div data-filters="branding">
-                                    <!-- Portfolio--><a class="card card-portfolio  image-link overflow-hidden lift rounded-4" href="assets/img/home-2-slider-4-900x830.jpg"><span class="card-img" data-img-height style="--img-height: 92%;"><img loading="lazy" src="assets/img/criativos/bolobom (3).jpeg" alt=""></span></a>
+                                    <!-- Portfolio--><a class="card card-portfolio  image-link overflow-hidden lift rounded-4" href="assets/img/criativos/post6.png"><span class="card-img" data-img-height style="--img-height: 92%;"><img loading="lazy" src="assets/img/criativos/post6.png" alt=""></span></a>
                                 </div>
                             </div>
                         </div>
@@ -172,7 +170,7 @@
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3" d="M39 20.5C39 30.717 30.717 39 20.5 39M39 20.5C39 10.283 30.717 2 20.5 2M39 20.5H2M20.5 39C10.283 39 2 30.717 2 20.5M20.5 39a28.305 28.305 0 0 0 7.4-18.5A28.305 28.305 0 0 0 20.5 2m0 37a28.305 28.305 0 0 1-7.4-18.5A28.305 28.305 0 0 1 20.5 2M2 20.5C2 10.283 10.283 2 20.5 2" />
                                 </svg></div>
                             <div class="service-line-body ms-40">
-                                <h4 class="service-line-title m-0">Web sites</h4><a class="service-line-arrow stretched-link" href="service-web-site-business.html"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
+                                <h4 class="service-line-title m-0">Web sites</h4><a class="service-line-arrow stretched-link" href="/serviço-website"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
                                         <path stroke="currentColor" stroke-width="1.7" d="M0 7h18m0 0-6.75-6M18 7l-6.75 6" />
                                     </svg></a>
                             </div>
@@ -185,7 +183,7 @@
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3" d="M2 29.75 20.5 39 39 29.75M2 20.5l18.5 9.25L39 20.5M20.5 2 2 11.25l18.5 9.25L39 11.25 20.5 2Z" />
                                 </svg></div>
                             <div class="service-line-body ms-40">
-                                <h4 class="service-line-title m-0">Planejamento Estrátégico de Marketing </h4><a class="service-line-arrow stretched-link" href="service-planejamento-business.html"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
+                                <h4 class="service-line-title m-0">Planejamento Estrátégico de Marketing </h4><a class="service-line-arrow stretched-link" href="/planejamento-estratégico-Marketing"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
                                         <path stroke="currentColor" stroke-width="1.7" d="M0 7h18m0 0-6.75-6M18 7l-6.75 6" />
                                     </svg></a>
                             </div>
@@ -198,7 +196,7 @@
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3" d="M7.55 26.05H5.7a3.7 3.7 0 0 1-3.7-3.7V5.7A3.7 3.7 0 0 1 5.7 2h16.65a3.7 3.7 0 0 1 3.7 3.7v1.85m-7.4 7.4H35.3a3.7 3.7 0 0 1 3.7 3.7V35.3a3.7 3.7 0 0 1-3.7 3.7H18.65a3.7 3.7 0 0 1-3.7-3.7V18.65a3.7 3.7 0 0 1 3.7-3.7Z" />
                                 </svg></div>
                             <div class="service-line-body ms-40">
-                                <h4 class="service-line-title m-0">Branding / Identidade Visual</h4><a class="service-line-arrow stretched-link" href="service-identidade-visual-business.html"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
+                                <h4 class="service-line-title m-0">Branding / Identidade Visual</h4><a class="service-line-arrow stretched-link" href="/serviço-identidade-visual"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
                                         <path stroke="currentColor" stroke-width="1.7" d="M0 7h18m0 0-6.75-6M18 7l-6.75 6" />
                                     </svg></a>
                             </div>
@@ -209,7 +207,7 @@
                         <div class="service-line lift position-relative rounded-3">
                             <div class="service-line-icon text-accent-1"> <img src="assets/img/ícones/tráfegopago.png" alt=""></div>
                             <div class="service-line-body ms-40">
-                                <h4 class="service-line-title m-0">Gerenciamento de anúncios/Tráfego Pago</h4><a class="service-line-arrow stretched-link" href="service-gerenciamento-trafego-business.html"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
+                                <h4 class="service-line-title m-0">Gerenciamento de anúncios/Tráfego Pago</h4><a class="service-line-arrow stretched-link" href="/serviço-anúncio-trafego-pago"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
                                         <path stroke="currentColor" stroke-width="1.7" d="M0 7h18m0 0-6.75-6M18 7l-6.75 6" />
                                     </svg></a>
                             </div>
@@ -222,7 +220,7 @@
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3" d="M39 2 18.65 22.35M39 2 26.05 39l-7.4-16.65M39 2 2 14.95l16.65 7.4" />
                                 </vg></div>
                             <div class="service-line-body ms-40">
-                                <h4 class="service-line-title m-0">Gestão de Mídias e Conteúdo</h4><a class="service-line-arrow stretched-link" href="service-conteudo-business.html"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
+                                <h4 class="service-line-title m-0">Gestão de Mídias e Conteúdo</h4><a class="service-line-arrow stretched-link" href="/serviço-gerenciamento-mídias"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
                                         <path stroke="currentColor" stroke-width="1.7" d="M0 7h18m0 0-6.75-6M18 7l-6.75 6" />
                                     </svg></a>
                             </div>
@@ -235,7 +233,7 @@
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3" d="M21 38h19M30.5 3.306a4.488 4.488 0 0 1 7.304 1.447 4.444 4.444 0 0 1-.97 4.861l-26.39 26.283L2 38l2.111-8.41L30.5 3.305Z" />
                                 </svg></div>
                             <div class="service-line-body ms-40">
-                                <h4 class="service-line-title m-0">Materiais Off-line/Papelaria</h4><a class="service-line-arrow stretched-link" href="service-material-papelaria-business.html"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
+                                <h4 class="service-line-title m-0">Materiais Off-line/Papelaria</h4><a class="service-line-arrow stretched-link" href="/serviço-material-offline"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
                                         <path stroke="currentColor" stroke-width="1.7" d="M0 7h18m0 0-6.75-6M18 7l-6.75 6" />
                                     </svg></a>
                             </div>
@@ -271,31 +269,17 @@
                                 <div class="swiper-slide px-45 px-lg-100">
                                     <div class="row">
                                         <div class="col-lg-10 offset-lg-1">
-                                            <blockquote class="h3 mb-50 text-white">“ Depoimento 1. ”</blockquote>
-                                            <div class="d-flex align-items-center">
-                                                <div class="flex-shrink-0"><img class="rounded-circle" loading="lazy" src="assets/img/root/avatar-2-200x200.jpg" alt="" height="64" width="64"></div>
+                                            <blockquote class="h3 mb-50 text-white">“ Equipe maravilhosa, nos contagiam com tamanha alegria e prazer pelo que fazem. Nos ajudaram a mudar o modo de ver e fazer marketing. ”</blockquote>
+                                            <div class="d-flex align-items-center">                                               
                                                 <div class="flex-grow-1 ms-20">
-                                                    <h6 class="feedback-author mb-5 text-white">Catherine Daniels</h6>
-                                                    <p class="feedback-position text-gray font-size-14 m-0">Senior UX Designer, Unvab <br>Inc.</p>
+                                                    <h6 class="feedback-author mb-5 text-white">Wagner Telles</h6>
+                                                    <p class="feedback-position text-gray font-size-14 m-0">CEO, NADI <br>Núcleo de Apoio e Desenvolvimento Institucional.</p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="swiper-slide px-45 px-lg-100">
-                                    <div class="row">
-                                        <div class="col-lg-10 offset-lg-1">
-                                            <blockquote class="h3 mb-50 text-white">“ Depoimento 2. ”</blockquote>
-                                            <div class="d-flex align-items-center">
-                                                <div class="flex-shrink-0"><img class="rounded-circle" loading="lazy" src="assets/img/root/avatar-1-200x200.jpg" alt="" height="64" width="64"></div>
-                                                <div class="flex-grow-1 ms-20">
-                                                    <h6 class="feedback-author mb-5 text-white">Richard Norris</h6>
-                                                    <p class="feedback-position text-gray font-size-14 m-0">Senior Marketing Specialist, Unvab <br>Inc.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </div>
                    </div>
@@ -312,28 +296,28 @@
                 </div>
                 <div class="row gy-30 gallery-wrapper">
                     <div class="col-12 col-md-6 col-lg-2" data-show="startbox">
-                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="assets/img/logos/autonoma-logo.png" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/autonoma-logo.png" alt=""></a>
+                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="assets/img/logos/autonoma-logo.png" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/th.png" alt=""></a>
                     </div>
                     <div class="col-12 col-md-6 col-lg-2" data-show="startbox" data-show-delay="100">
-                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/bolo-bom-logo.png" alt=""></a>
+                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/autonoma.png" alt=""></a>
                     </div>
                     <div class="col-12 col-md-6 col-lg-2" data-show="startbox" data-show-delay="200">
-                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/gostosurastemos.png" alt=""></a>
+                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/bolobom.png" alt=""></a>
                     </div>
                     <div class="col-12 col-md-6 col-lg-2" data-show="startbox">
-                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/lienito-logo.png" alt=""></a>
+                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/gostosuras.png" alt=""></a>
                     </div>
                     <div class="col-12 col-md-6 col-lg-2" data-show="startbox" data-show-delay="100">
-                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/nadi-logo.png" alt=""></a>
+                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/lenitos.png" alt=""></a>
                     </div>
                     <div class="col-12 col-md-6 col-lg-2" data-show="startbox" data-show-delay="200">
-                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/petros-logo.png" alt=""></a>
+                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/nadi.png" alt=""></a>
                     </div>
                     <div class="col-12 col-md-6 col-lg-2" data-show="startbox" data-show-delay="200">
-                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/th-logo.png" alt=""></a>
+                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/petros.png" alt=""></a>
                     </div>
                     <div class="col-12 col-md-6 col-lg-2" data-show="startbox" data-show-delay="200">
-                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="assets/img/logos/Ully-Logo.png" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/Ully-Logo.png" alt=""></a>
+                        <!-- Gallery item--><a class="gallery-item rounded-4 overflow-hidden" href="assets/img/logos/Ully-Logo.png" style="--img-height: 92%;" data-img-height><img loading="lazy" src="assets/img/logos/ully.png" alt=""></a>
                     </div>
                 </div>
                 
@@ -359,18 +343,11 @@
                         </svg></div>
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <!-- Member-->
-                                <div class="member "><a class="member-image rounded-4" href="#" data-img-height style="--img-height: 114%;"><img loading="lazy" src="assets/img/team/member-8.jpg" alt=""></a>
-                                    <div class="member-body"><a class="member-title h4" href="#">Austen Shields</a>
-                                        <div class="member-subtitle font-size-15 text-gray-dark">Senior QA Engineer</div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                             <div class="swiper-slide">
                                 <!-- Member-->
                                 <div class="member "><a class="member-image rounded-4" href="#" data-img-height style="--img-height: 114%;"><img loading="lazy" src="assets/img/time/aline.png" alt=""></a>
-                                    <div class="member-body"><a class="member-title h4" href="#">Aline</a>
+                                    <div class="member-body"><a class="member-title h4" href="#">Aline souza</a>
                                         <div class="member-subtitle font-size-15 text-gray-dark">Social Media</div>
                                     </div>
                                 </div>
@@ -378,27 +355,20 @@
                             <div class="swiper-slide">
                                 <!-- Member-->
                                 <div class="member "><a class="member-image rounded-4" href="#" data-img-height style="--img-height: 114%;"><img loading="lazy" src="assets/img/time/dayane.png" alt=""></a>
-                                    <div class="member-body"><a class="member-title h4" href="#">Dayane</a>
+                                    <div class="member-body"><a class="member-title h4" href="#">Dayane Favaro</a>
                                         <div class="member-subtitle font-size-15 text-gray-dark">Designer</div>
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <!-- Member-->
-                                <div class="member "><a class="member-image rounded-4" href="#" data-img-height style="--img-height: 114%;"><img loading="lazy" src="assets/img/team/member-3.jpg" alt=""></a>
-                                    <div class="member-body"><a class="member-title h4" href="#">Kerrie Barrett</a>
-                                        <div class="member-subtitle font-size-15 text-gray-dark">Project Manager</div>
+                                <div class="member "><a class="member-image rounded-4" href="#" data-img-height style="--img-height: 114%;"><img loading="lazy" src="assets/img/time/ju.png" alt=""></a>
+                                    <div class="member-body"><a class="member-title h4" href="#">Juliana Cruz</a>
+                                        <div class="member-subtitle font-size-15 text-gray-dark">Analista de Marketing</div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide">
-                                <!-- Member-->
-                                <div class="member "><a class="member-image rounded-4" href="#" data-img-height style="--img-height: 114%;"><img loading="lazy" src="assets/img/team/member-4.jpg" alt=""></a>
-                                    <div class="member-body"><a class="member-title h4" href="#">Mark Hudson</a>
-                                        <div class="member-subtitle font-size-15 text-gray-dark">Senior Front-End Developer</div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="d-flex mt-70 justify-content-center">
@@ -446,7 +416,7 @@
                             <li class="nav-item"><a class="nav-link" href="/serviço-website">Web Site</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-identidade-visual">Branding / Identidade Visual</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-gerenciamento-mídias">Gestão de Mídias e Conteúdo</a></li>
-                                <li class="nav-item"><a class="nav-link" href="service-planejamento-business.html">Planejamento Estratégico de Marketing</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/planejamento-estratégico-Marketing">Planejamento Estratégico de Marketing</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-anúncio-trafego-pago">Gerenciamento de anúncio / Trafego Pago</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/serviço-material-offline">Materiais Off-line / Papelaria</a></li> </ul>
                          </ul>
