@@ -97,7 +97,7 @@
                         <h1 class="text-white mb-30 px-lg-30">Conectar Pessoas<br>Unir Propósitos<br>Transformar o Mundo</h1>
                         <p class="fw-medium font-size-18 text-white mb-45">Um novo jeito de Fazer Marketing.</p>
                         
-                        <!-- Button--><a class="btn btn-accent-1" href="contato_business.html" target="_self">Fale com um dos nossos consultores <svg class="ms-15 align-self-center" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 15 15">
+                        <!-- Button--><a class="btn btn-accent-1" href="/contato" target="_self">Fale com um dos nossos consultores <svg class="ms-15 align-self-center" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 15 15">
                                 <path fill="currentColor" d="M15 11.23v2.259a1.501 1.501 0 0 1-1.026 1.432c-.199.067-.41.092-.619.073a14.944 14.944 0 0 1-6.508-2.31A14.692 14.692 0 0 1 2.32 8.166 14.877 14.877 0 0 1 .006 1.641 1.503 1.503 0 0 1 .9.13 1.51 1.51 0 0 1 1.507 0H3.77a1.51 1.51 0 0 1 1.508 1.295c.095.722.273 1.432.528 2.115a1.503 1.503 0 0 1-.34 1.588l-.957.956a12.055 12.055 0 0 0 4.525 4.516l.958-.956a1.51 1.51 0 0 1 1.591-.338 9.7 9.7 0 0 0 2.12.527 1.509 1.509 0 0 1 1.296 1.527Z" />
                             </svg></a>
                     </div>
@@ -157,7 +157,7 @@
                         <h2 class="m-0" data-show="startbox" data-show-delay="100">Você <span class="highlight">nos conta o seu sonho.</span> <br>E nós faremos o possível para realizá-lo.</h2>
                     </div>
                     <div class="col-lg-6 offset-lg-1">
-                        <p class="m-0" data-show="startbox" data-show-delay="200">(Incluir texto sobre nossa metodologia de trabalho e atendimento).</p>
+                        <p class="m-0" data-show="startbox" data-show-delay="200"></p>
                     </div>
                 </div>
             </div>
@@ -236,26 +236,14 @@
                                 <h4 class="service-line-title m-0">Materiais Off-line/Papelaria</h4><a class="service-line-arrow stretched-link" href="/serviço-material-offline"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" fill="none">
                                         <path stroke="currentColor" stroke-width="1.7" d="M0 7h18m0 0-6.75-6M18 7l-6.75 6" />
                                     </svg></a>
-                            </div>
-                        </div>
+                           
                     </div>
                 </div>
             </div>
                 
         <div class="pt-120 pb-130">
-            <div class="container">
-                <div class="row mb-90">
-                    <div class="col-lg-6 offset-lg-3 text-center"><span class="badge bg-light text-dark mb-20" data-show="startbox">Quem somos</span>
-                        <h2 class="m-0" data-show="startbox" data-show-delay="100">Alguns fatos sobre nós</h2>
-                        <p class="font-size-30 m-0">Somos uma agencia de martketing com soluções personalizadas.</p>
-                    </div>
-                </div>
-                <div class="row gy-45">
-                    <div class="col-lg-6">
-                        <!-- Item-->
-                        
-                    
-                </div>
+            <div class="container">                                  
+                                              
                 <div class="rounded-4 bg-dark pt-160 pb-130 shape-parent mt-120">
                     <!-- Shape-->
                     <div class="shape justify-content-end rounded-top-right-4 overflow-hidden"><img loading="lazy" src="assets/img/root/testimonial-shape-232x325.png" alt="" width="232" height="325"></div>
